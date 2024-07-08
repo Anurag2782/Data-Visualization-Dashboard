@@ -2,6 +2,13 @@
 
 Welcome to the Data Visualization Dashboard repository! This dashboard provides insightful visualizations and data representation for our website. 
 
+## Screenshots
+![alt text](<Screenshot 2024-07-08 214316.png>)
+![alt text](<Screenshot 2024-07-08 214344.png>) 
+![alt text](<Screenshot 2024-07-08 214221.png>)
+![alt text](<Screenshot 2024-07-08 214357.png>)
+![alt text](<Screenshot 2024-07-08 214331.png>)
+![alt text](image.png)
 
 ## About
 
