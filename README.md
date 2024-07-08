@@ -3,12 +3,13 @@
 Welcome to the Data Visualization Dashboard repository! This dashboard provides insightful visualizations and data representation for our website. 
 
 ## Screenshots
-![alt text](<Screenshot 2024-07-08 214316.png>)
-![alt text](<Screenshot 2024-07-08 214344.png>) 
-![alt text](<Screenshot 2024-07-08 214221.png>)
-![alt text](<Screenshot 2024-07-08 214357.png>)
-![alt text](<Screenshot 2024-07-08 214331.png>)
-![alt text](image.png)
+![Screenshot 2024-07-08 214316](https://github.com/Anurag2782/Data-Visualization-Dashboard/assets/116972643/4e80f9b8-d305-40b4-9993-964af4df3c1d)
+![Screenshot 2024-07-08 214221](https://github.com/Anurag2782/Data-Visualization-Dashboard/assets/116972643/1a7587e4-198b-45bf-a891-42dd94031eda)
+![Screenshot 2024-07-08 214344](https://github.com/Anurag2782/Data-Visualization-Dashboard/assets/116972643/f1fcecc2-f589-4d7c-8c6f-ecc8167f3ee0)
+![Screenshot 2024-07-08 214344](https://github.com/Anurag2782/Data-Visualization-Dashboard/assets/116972643/7b05f074-4c31-429f-911a-4c84484b426c)
+![Screenshot 2024-07-08 214357](https://github.com/Anurag2782/Data-Visualization-Dashboard/assets/116972643/f9f8fdc1-8fb2-48a9-b2d3-0f9284e74067)
+![Screenshot 2024-07-08 214420](https://github.com/Anurag2782/Data-Visualization-Dashboard/assets/116972643/0db0051a-d39a-4d7c-8b80-bef885c609c8)
+
 
 ## About
 
